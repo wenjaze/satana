@@ -6,7 +6,7 @@ win = pygame.display.set_mode((500,480))
 pygame.display.set_caption("First Game")
 
 walkRight = pygame.image.load('satana_right.png')
-walkLeft = pygame.image.load('stana_left.png')
+walkLeft = pygame.image.load('satana_left.png')
 bg = pygame.image.load('bg.png')
 char = pygame.image.load('satana_standing.png')
 
